@@ -1,5 +1,5 @@
 body {
-  background-color: #404040;
+  background-color: #D9CAB4;
 }
 
 html, body {
@@ -7,7 +7,7 @@ html, body {
 }
 
 .menu_bar {
-  background-color: black;
+  background-color: #341708;
   height: 70px;
   display: flex;
   width: 100%;
@@ -29,8 +29,8 @@ html, body {
 .menu_link {
   color: white;
   text-decoration: none;
-  font-weight: 600;
-  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-family: 'Cinzel', serif;
 }
 
 .page{
@@ -61,13 +61,16 @@ html, body {
 
 
 h1 {
-  color: #9dc2ed;
-  font-family: 'Koulen';
-  font-size: 60px;
+  color: #341708;
+  font-family: 'Cinzel';
+  font-weight: 500;
+  font-size: 50px;
   line-height: 60px;
 }
 
 p {
-  color: white;
+  color: #341708;
   font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
 }
