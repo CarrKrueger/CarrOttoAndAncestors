@@ -190,15 +190,17 @@ textarea {
 }
 
 .order_info_container {
-  width: 90%;
+  width: 80%;
   display: flex;
   justify-content: center;
   align-items: center;
+
+  text-align: center;
+
   padding-top: 20px;
   padding-bottom: 50px;
-  padding-left: 50px;
-  padding-right: 50px;
-  text-align: center;
+  padding-left: 10%;
+  padding-right: 0px;
 }
 
 .order_info_container p {
