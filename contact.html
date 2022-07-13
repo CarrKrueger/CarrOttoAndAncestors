@@ -27,8 +27,10 @@
                 })
                     .then(function() {
                         console.log('SUCCESS!');
+                        window.location.href = "submitted.html";
                     }, function(error) {
                         console.log('FAILED...', error);
+                        window.location.href = "submitted.html";
                     });
 
             });
